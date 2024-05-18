@@ -1,0 +1,14 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Edwin Pinilla",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "openai": "^4.47.1"
+  }
+}
